@@ -14,7 +14,7 @@ Many of these bots are either outdated or completely non-functional, and my goal
 - **SAP Business Process Automation (BPA)**: Developing , refactoring and optimization of business workflows through SAP's Business Process Automation.
 - **Full-Stack Development**: End-to-end solutions from front-end to backend.
 
-Even if you need any language in specific, we can talk about itm investigate and apply yo your needs!
+Even if you need any language in specific, we can talk about it, investigate and apply to your needs!
 
 ### What I'm Working On
 - 🛠️ Refactoring legacy bots in **SAP BPA**, improving process automation.
@@ -30,4 +30,5 @@ Feel free to reach out for collaborations, tech discussions, or open-source cont
 - LinkedIn: www.linkedin.com/in/rodrigo-ignacio-amigo-morgado
 
 Thanks for visiting my profile! 😊
+
 
