@@ -7,7 +7,7 @@ I'm a **Packaged App Developer Sr. Analyst** at **Accenture Chile**, specialized
 🎓 Universidad Técnica Federico Santa María
 
 ## What I'm Currently Learning
-I am currently diving deeper into **SAP Business Process Automation (BPA)** and **Generative AI applied to SAP**, working on projects focused on optimizing and refactoring legacy bots. Many of these bots are either outdated or completely non-functional, and my goal is to revamp them to enhance business efficiency.
+I am currently studying for the **SAP Backend Developer - CAP** certification and the **SAP Certified - Solution Architect - SAP BTP** certification, while working on cutting-edge SAP BTP projects.
 
 ## Key Skills
 - **SAPUI5 + Fiori** — Developing responsive, intuitive UIs for enterprise applications.
